@@ -1,4 +1,4 @@
-# DasKlos
+# Scrabble
 
 ## Team Members
 Jerry Klos		19200313
